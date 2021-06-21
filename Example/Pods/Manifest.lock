@@ -1,0 +1,16 @@
+PODS:
+  - foro (0.1.0)
+
+DEPENDENCIES:
+  - foro (from `../`)
+
+EXTERNAL SOURCES:
+  foro:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  foro: 732e912ba6a0ed11c9fbc4f77e56a3f298204c25
+
+PODFILE CHECKSUM: 5eb07d2c5fc6ebca86ddcc7069c71fc155eda510
+
+COCOAPODS: 1.10.1

@@ -1,0 +1,6 @@
+framework module foro {
+  umbrella header "foro-umbrella.h"
+
+  export *
+  module * { export * }
+}
